@@ -1,0 +1,13 @@
+{
+  "project": "AGRICONNECT (AGRINOVA)",
+  "description": "Prototype ANN-based crop recommendation and yield estimation",
+  "metrics": {
+    "crop_accuracy": 0.89375,
+    "yield_rmse": 0.33228625070384354
+  },
+  "artifacts": {
+    "label_encoder": "models/label_encoder.joblib",
+    "crop_classifier": "models/ann_crop_classifier.joblib",
+    "yield_regressor": "models/ann_yield_regressor.joblib"
+  }
+}
