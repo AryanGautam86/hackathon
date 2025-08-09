@@ -19,10 +19,10 @@ It also includes a **rule-based FAQ system** to answer common agricultural queri
 ---
 
 ## Project Structure
-├── data/ # Synthetic or real agricultural datasets
-├── models/ # Trained ML models & metadata
-├── agriconnect_streamlit.py # Streamlit frontend app
-├── agriconnect_api.py (optional) # FastAPI backend (if used)
-├── README.md # Project documentation
-└── requirements.txt # Python dependencies
+├── data/ 
+├── models/ 
+├── agriconnect_streamlit.py 
+├── agriconnect_api.py (optional) 
+├── README.md
+└── requirements.txt
 
